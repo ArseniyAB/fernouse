@@ -92,18 +92,6 @@
           "size_x": 2576,
           "size_y": 1408
         }
-      },
-      {
-        "name": "fernouse.kicad_pro",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": 437,
-          "pos_y": 469,
-          "size_x": 954,
-          "size_y": 652
-        }
       }
     ]
   },
