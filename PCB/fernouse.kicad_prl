@@ -82,27 +82,15 @@
   "project": {
     "files": [
       {
-        "name": "fernouse.kicad_pro",
+        "name": "fernouse.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": false,
-          "pos_x": 437,
-          "pos_y": 469,
-          "size_x": 954,
-          "size_y": 652
-        }
-      },
-      {
-        "name": "fernouse.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1408
+          "pos_x": -1087,
+          "pos_y": -255,
+          "size_x": 1094,
+          "size_y": 943
         }
       }
     ]
