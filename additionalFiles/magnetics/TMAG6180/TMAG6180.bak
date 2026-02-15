@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "MAG"
-			(at 22.86 10.16 0)
+			(at 14.732 9.398 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "TMAG6180EDGKRQ1"
-			(at 22.86 7.62 0)
+			(at 14.732 6.858 0)
 			(effects
 				(font
 					(size 1.524 1.524)
