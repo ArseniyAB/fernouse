@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "D2FC-f-7N")(type "KiCad")(uri "C:/Users/arsen/Documents/git-repos/fernouse/additionalFiles/primary_switch/D2FC-f-7N.pretty")(options "")(descr ""))
+  (lib (name "TMAG6180")(type "KiCad")(uri "C:/Users/arsen/Documents/git-repos/fernouse/additionalFiles/magnetics/TMAG6180/TMAG6180.pretty")(options "")(descr ""))
+  (lib (name "D3C-1220")(type "KiCad")(uri "C:/Users/arsen/Documents/git-repos/fernouse/additionalFiles/secondary_switch/D3C-1220.pretty")(options "")(descr ""))
+  (lib (name "B3F_1005")(type "KiCad")(uri "C:/Users/arsen/Documents/git-repos/fernouse/additionalFiles/triary_switch/B3F_1005/B3F_1005.pretty")(options "")(descr ""))
+)
